@@ -111,7 +111,7 @@ LLM-Analysis-TDS-Project-2/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/23f3002766/tds-geniesolver.git
+git clone https://github.com/taylorfryhector-arch/tdsproject2.git
 cd LLM-Analysis-TDS-Project-2
 ```
 
